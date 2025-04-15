@@ -29,7 +29,7 @@ The managed rule groups are free-tier AWS rules, ensuring no unexpected costs.<b
 To associate this WAF with a CloudFront distribution, update the distribution’s configuration with the Web ACL ARN (output as web_acl_arn).<br/>
 If you need logging, enable WAF logging separately and associate it with the CloudWatch log group or another destination (e.g., S3, Kinesis).<br/>
 
-<br/><br/>
+<br/>
 <br/>
 Below WAF rules are enabled:<br/>
 <br/>
